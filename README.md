@@ -3,7 +3,7 @@
 
 🎓 I'm a 3rd-year Computer Science student at Nicolaus Copernicus University in Toruń
 - 🗓️ Expected graduation: **February 2026**
-- 🎯 Planning to pursue a **PhD**, most likely in **Big Data** or **Project Management**
+- 🎯 Planning to pursue a **PhD**, most likely in **Big Data** or **Artificial intellinence/Machine learning**
 
 🏆 I also took part in several programming competitions:
 
@@ -98,3 +98,4 @@ Terminal-based “MiniTwitter” with inter-process communication.
 
 You can reach me via email: [natanwarelich@gmail.com](mailto:natanwarelich@gmail.com)  
 Feel free to connect with me here on GitHub as well: [github.com/kwidzynator](https://github.com/kwidzynator)
+
