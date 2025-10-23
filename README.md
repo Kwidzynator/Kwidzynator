@@ -11,8 +11,8 @@
 
     🥇 1st place in a team programming competition organized by the Faculty of Mathematics and Computer Science — awarded in the "business potential" category.
 
-🚀 My goal is to work in the **IT industry**
-- 🌱 Currently expanding my skills in **Python**, **data engineering**, and **software engineering**
+🚀 Currently working as Junior Dynamics365 Developer
+- 🌱 Currently expanding my skills in **Python**, **data engineering**, **React**, **TypeScript**, **C#**, **Dataverse and Power Platform**
 
 📚 I'm especially interested in:
 - Data pipelines and large-scale processing
@@ -98,4 +98,5 @@ Terminal-based “MiniTwitter” with inter-process communication.
 
 You can reach me via email: [natanwarelich@gmail.com](mailto:natanwarelich@gmail.com)  
 Feel free to connect with me here on GitHub as well: [github.com/kwidzynator](https://github.com/kwidzynator)
+
 
