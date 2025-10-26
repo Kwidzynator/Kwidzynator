@@ -24,7 +24,7 @@
 ## 📂 Projects
 
 ### 🧠 Xyllie
-Polish AI-based streamer/chatbot using transformer models (BERT, Pygmalion), MarianMT for translation, and CoquiTTS for speech.  
+Polish AI-based streamer/chatbot using transformer models (BERT, Mythomax), MarianMT for translation, and CoquiTTS for speech.  
 **Stack:** Python, PyTorch, scikit-learn, pandas, C#
 
 ### 💼 Novizio (ERP System)
@@ -98,5 +98,6 @@ Terminal-based “MiniTwitter” with inter-process communication.
 
 You can reach me via email: [natanwarelich@gmail.com](mailto:natanwarelich@gmail.com)  
 Feel free to connect with me here on GitHub as well: [github.com/kwidzynator](https://github.com/kwidzynator)
+
 
 
